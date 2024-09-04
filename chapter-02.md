@@ -1,4 +1,4 @@
-## Meaningfu Names
+## Meaningful Names
 #### If a name requires a comment, then the name does not reveal its intent
 ```go
 var d int // elapsed time in days
